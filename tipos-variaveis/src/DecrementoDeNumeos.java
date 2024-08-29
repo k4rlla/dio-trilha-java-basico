@@ -7,7 +7,7 @@ public class DecrementoDeNumeos {
             //numero = numero - 1; 
             //System.out.println(numero);
 
-            System.err.println(numero --);
+            System.err.println(-- numero);
 
             System.err.println(numero);
         }
